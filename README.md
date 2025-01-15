@@ -16,3 +16,5 @@ Images: 250 for laminar flow and 250 for turbulent flow.
 Conditions: Simulated under similar Reynolds number settings of 200 and 5000 for laminar and turbulent flows, respectively.
 
 The datasets were generated and captured via CFD simulations using OpenFOAM software. Images were post-processed with ParaView to standardize resolution.
+
+Kaggle Link: <https://www.kaggle.com/datasets/palanithanarajk/cfd-fluid-flow-images>
