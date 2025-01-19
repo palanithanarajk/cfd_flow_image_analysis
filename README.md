@@ -112,7 +112,7 @@ Directories are structured as follows:
 If you use this code in your research, please cite the following paper: 
 
 ```
-Palani Thanaraj K. (2023). Fluid Flow Image Classification Using LBP Features. GitHub repository. 
+Palani Thanaraj K. (2025). Fluid Flow Image Classification Using LBP Features. GitHub repository. 
 <https://github.com/palanithanarajk/cfd_flow_image_analysis>
 ```
 
