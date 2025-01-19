@@ -1,4 +1,4 @@
-# cfd_flow_image_analysis
+# Fluid Flow Image Classification
 
 About Dataset
 
@@ -20,11 +20,6 @@ Kaggle Link to the dataset: <https://www.kaggle.com/datasets/palanithanarajk/cfd
 
 # Experimentation
 This section includes an explanation of the purpose, environment setup, and how the code works.
-
----
-
-# Fluid Flow Image Classification
-
 This repository contains a Jupyter Notebook (`main_file.ipynb`) that classifies fluid flow images as either **low-speed (Laminar)** or **high-speed (Turbulent)** using Local Binary Pattern (LBP) features and several machine learning classifiers.
 
 ## Project Overview
@@ -49,6 +44,11 @@ Ensure you have these libraries installed. You can install them using pip if nec
 
 ```bash
 pip install numpy pandas scikit-image scikit-learn matplotlib
+```
+or
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Data Organization
