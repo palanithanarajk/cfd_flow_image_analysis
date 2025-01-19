@@ -55,10 +55,10 @@ pip install numpy pandas scikit-image scikit-learn matplotlib
 
 Directories are structured as follows:
 
-- **Laminar Data**:
-  - Path: `cfd_flow_image_analysis\data\elliptic`
-- **Turbulent Data**:
-  - Path: `cfd_flow_image_analysis\data\erofoil`
+- **Elliptic Data**:
+  - Path: `cfd_flow_image_analysis\data\elliptic\`
+- **Aerofoil Data**:
+  - Path: `cfd_flow_image_analysis\data\aerofoil\`
 
 ## Code Description
 
