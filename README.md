@@ -16,11 +16,11 @@ Conditions: Simulated under similar Reynolds number settings of 200 and 5000 for
 
 The datasets were generated and captured via CFD simulations using OpenFOAM software. Images were post-processed with ParaView to standardize resolution.
 
-Kaggle Link to the dataset: <https://www.kaggle.com/datasets/palanithanarajk/cfd-fluid-flow-images>
+Kaggle Link to the dataset: <https://www.kaggle.com/datasets/palanithanarajk/fluid-flow-images>
 
 # Experimentation
 This section includes an explanation of the purpose, environment setup, and how the code works.
-This repository contains a Jupyter Notebook (`main_file.ipynb`) that classifies fluid flow images as either **low-speed (Laminar)** or **high-speed (Turbulent)** using Local Binary Pattern (LBP) features and several machine learning classifiers.
+This repository contains a Jupyter Notebook (`main_file.ipynb`) that classifies fluid flow images as either **low-speed** or **high-speed** using Local Binary Pattern (LBP) features and several machine learning classifiers.
 
 ## Project Overview
 
